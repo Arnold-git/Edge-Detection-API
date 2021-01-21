@@ -29,7 +29,7 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in app.config["ALLOWED_EXTENSIONS"]
 
 
-@app.route('/detect_edge', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def upload_file():
 
     uploaded_file = request.files.get("file")
