@@ -36,7 +36,7 @@ $ pip install -r requirements.txt
 
 ### Test Locally ###
 
-* On the project terminal run
+* On your terminal run
 
 ```
 $ python app.py
@@ -52,10 +52,5 @@ file ==> Image you want to detect edges, Image size must not be greater than 2MB
 
 #### Example of Edge Detected ####
 
-<div align='center'>
-  <img src='./Images/2.png'>
-</div>
-
-<div align='center'>
-  <img src='./Images/1.png'>
-</div>
+<img src="images/2.png" width="1000px"/>
+<img src="images/1.png" width="1000px"/>
