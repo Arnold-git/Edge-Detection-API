@@ -1,7 +1,6 @@
 from flask import Flask, request, make_response, jsonify, send_file, Response
 import numpy as np
 import cv2
-import requests
 from PIL import Image
 import io
 from io import StringIO, BytesIO
