@@ -3,7 +3,7 @@
 The purpose of this README.md file is to explain the steps required to setup this project in your local environment for testing.
 
 <div align='center'>
-  <img src='./Images/response.png'>
+  <img src='./Images/response.png' width="500px">
 </div>
 
 
