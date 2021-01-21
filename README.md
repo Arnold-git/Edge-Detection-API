@@ -52,5 +52,5 @@ file ==> Image you want to detect edges, Image size must not be greater than 2MB
 
 #### Example of Edge Detected ####
 
-<img src="images/2.png" width="1000px"/>
-<img src="images/1.png" width="1000px"/>
+<img src="Images/2.png" width="1000px"/>
+<img src="Images/1.png" width="1000px"/>
