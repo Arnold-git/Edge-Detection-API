@@ -6,6 +6,10 @@ The purpose of this README.md file is to explain the steps required to setup thi
   <img src='./Images/response.png'>
 </div>
 
+<div align='center'>
+  <img src='./Images/response2.png'>
+</div>
+
 ### How do I get set up? ###
 
 * Summary of set up
@@ -51,9 +55,7 @@ file ==> Image you want to detect edges, Image size must not be greater than 2MB
 <div align='center'>
   <img src='./Images/2.png'>
 </div>
-
 <br><br><br>
-
 <div align='center'>
   <img src='./Images/1.png'>
 </div>
