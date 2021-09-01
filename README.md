@@ -11,7 +11,7 @@ The purpose of this README.md file is to explain the steps required to setup thi
   <img src='./Images/response2.png'>
 </div>
 
-### How do I get set up? ###
+### How do I get set up? ### :pushpin:
 
 * Summary of set up
 * Dependencies
@@ -21,7 +21,7 @@ The purpose of this README.md file is to explain the steps required to setup thi
 * Python
 
 
-### Setting up ###
+### Setting up ### 
 
 * Create a Virtual environment
 ```
