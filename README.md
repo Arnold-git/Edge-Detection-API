@@ -1,4 +1,4 @@
-# Edge Detection API 
+# Edge Detection API :rocket: 
 
 The purpose of this README.md file is to explain the steps required to setup this project in your local environment for testing.
 
